@@ -1,9 +1,9 @@
 <?php
 	
-	$DATABASE_HOST = "the-unreleased-force.de";
-	$DATABASE_USER = "root";
-	$DATABASE_PASS = "derseppl";
-	$DATABASE_NAME = "doa";
+	$DATABASE_HOST = "host";
+	$DATABASE_USER = "user";
+	$DATABASE_PASS = "pass";
+	$DATABASE_NAME = "dbname";
 
 
 ?>
